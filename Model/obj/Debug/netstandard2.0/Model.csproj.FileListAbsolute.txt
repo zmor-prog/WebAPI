@@ -1,0 +1,8 @@
+C:\Users\bwind\source\repos\API\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\bwind\source\repos\API\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\bwind\source\repos\API\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\bwind\source\repos\API\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\bwind\source\repos\API\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\bwind\source\repos\API\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\bwind\source\repos\API\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\bwind\source\repos\API\Model\obj\Debug\netstandard2.0\Model.pdb
