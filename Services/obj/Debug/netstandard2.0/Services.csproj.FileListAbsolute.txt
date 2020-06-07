@@ -12,3 +12,16 @@ C:\Users\bwind\source\repos\API\Services\bin\Debug\netstandard2.0\Repositories.p
 C:\Users\bwind\source\repos\API\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
 C:\Users\bwind\source\repos\API\Services\obj\Debug\netstandard2.0\Services.dll
 C:\Users\bwind\source\repos\API\Services\obj\Debug\netstandard2.0\Services.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Model.dll
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Services\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\imbak\RiderProjects\WebAPI\Services\obj\Debug\netstandard2.0\Services.pdb

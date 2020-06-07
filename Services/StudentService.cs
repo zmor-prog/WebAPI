@@ -21,9 +21,9 @@ namespace Services
             return product;
         }
 
-        public Task<Student> Read(Guid id)
+        public async Task<Student> Read(Guid id)
         {
-            var product = Repository.Read(id);
+            var product = await Repository.Read(id);
             return product;
         }
 

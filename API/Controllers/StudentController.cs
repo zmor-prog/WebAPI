@@ -29,7 +29,7 @@ namespace API.Controllers
         }
 
 
-        [HttpGet("{id:guid}")]
+        [HttpGet("{id}")]
         public async Task<IActionResult> Read(Guid id)
         {
             var product = await Service.Read(id);

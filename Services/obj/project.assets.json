@@ -214,43 +214,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bwind\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\imbak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bwind\\source\\repos\\API\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\bwind\\source\\repos\\API\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\bwind\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bwind\\source\\repos\\API\\Services\\obj\\",
+      "projectPath": "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\imbak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Services\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\bwind\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\imbak\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\bwind\\source\\repos\\API\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\bwind\\source\\repos\\API\\Model\\Model.csproj"
+            "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Model\\Model.csproj"
             },
-            "C:\\Users\\bwind\\source\\repos\\API\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\bwind\\source\\repos\\API\\Repositories\\Repositories.csproj"
+            "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\imbak\\RiderProjects\\WebAPI\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -281,7 +272,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
