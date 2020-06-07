@@ -20,7 +20,7 @@ namespace Repositories
             return product;
         }
 
-        public Task<Student> Read(Guid id)
+        public async Task<Student> Read(Guid id)
         {
             var students = new List<Student>()
             {
@@ -28,13 +28,8 @@ namespace Repositories
 
                new Student("David", "Aaronson", 18, "Davidaronson@corn.cob", "555-555-5555"){ Id = new Guid("48ae1fe9-815f-4747-9958-5c9faf20c75f")},
             };
-          
-
-            var product = new Task<Student>(() =>
-            {
-                return students.Single<Student>(cookieMonster => cookieMonster.Id == id); 
-            });
-            return product;
+            
+                return students.Single(cookieMonster => cookieMonster.Id == id); 
         }
         // TODO this
 

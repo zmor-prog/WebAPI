@@ -10,3 +10,14 @@ C:\Users\bwind\source\repos\API\Repositories\bin\Debug\netstandard2.0\Model.pdb
 C:\Users\bwind\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.csproj.CopyComplete
 C:\Users\bwind\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.dll
 C:\Users\bwind\source\repos\API\Repositories\obj\Debug\netstandard2.0\Repositories.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\bin\Debug\netstandard2.0\Repositories.deps.json
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\bin\Debug\netstandard2.0\Model.dll
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfo.cs
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.csproj.CopyComplete
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.dll
+C:\Users\imbak\RiderProjects\WebAPI\Repositories\obj\Debug\netstandard2.0\Repositories.pdb
